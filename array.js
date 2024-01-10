@@ -9,7 +9,7 @@ function processArray(event) {
 
    
     const numbersArray = numbersInput.split(' ').map(Number);
-t
+
     const occurrences = numbersArray.filter(num => num === parseInt(targetNumber)).length;
 
    
