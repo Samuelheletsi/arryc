@@ -1,0 +1,31 @@
+ body {
+     margin: 0;
+     display: flex;
+     justify-content: center;
+     align-items: center;
+     height: 100vh;
+     background-color: antiquewhite;
+ }
+
+ .cont {
+     border: 2px solid black;
+     text-align: center;
+     width: 250px;
+     background-color: azure;
+     box-shadow: 1rem 1rem 3rem black;
+ }
+input{
+    padding: 6px;
+    margin: 7px;
+}
+.display{
+    height: 300px;
+}
+.result{
+    width: 200px;
+    height: 60px;
+    border: 1px solid black;
+    margin: 5px;
+    margin-left: 20px;
+    background-color: white;
+}
